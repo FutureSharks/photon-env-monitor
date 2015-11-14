@@ -14,7 +14,7 @@ The 3 sensors are:
   * [Bosch BMP180](https://www.bosch-sensortec.com/en/homepage/products_3/environmental_sensors_1/bmp180_1/bmp180) - Digital barometric pressure sensor.
   * [Rohm BH1750FVI](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/sensor/light/bh1750fvi-e.pdf) - Ambient light sensor.
 
-After the measurements are taken the values are sent to Dweet. The Photon then measure its own battery level and will deep sleep for a variable amount of time between measurements in order to conserve battery life. The sleep time will be longer when the battery gets low.
+After the measurements are taken the values are sent to [Dweet](http://dweet.io/). The Photon then measure its own battery level and will deep sleep for a variable amount of time between measurements in order to conserve battery life. The sleep time will be longer when the battery gets low.
 
 The following libraries are used:
 
