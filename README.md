@@ -18,10 +18,10 @@ After the measurements are taken the values are sent to [Dweet](http://dweet.io/
 
 The following libraries are used:
 
-https://github.com/amcewen/HttpClient
-https://github.com/sparkfun/Photon_Battery_Shield
-https://github.com/adafruit/Adafruit-BMP085-Library
-https://github.com/sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library/
+  * https://github.com/amcewen/HttpClient
+  * https://github.com/sparkfun/Photon_Battery_Shield
+  * https://github.com/adafruit/Adafruit-BMP085-Library
+  * https://github.com/sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library/
 
 ## Hardware
 
